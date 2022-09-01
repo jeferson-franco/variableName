@@ -1,0 +1,20 @@
+{
+  "name": "variablename",
+  "version": "1.0.0",
+  "description": "Correct variable names consist only of English letters, digits and underscores and they can't start with a digit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/variableName.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/variableName/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/variableName#readme"
+}
